@@ -1,0 +1,35 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.git {
+    background-color: white;
+    border: double 1px white;
+    border-radius: 5px;
+    height: 250px;
+    width: 500px;
+    text-align: justify;
+    position: absolute;
+    left: 390px;
+    }
+
+.github {
+    background-color: white;
+    border: double 1px white;
+    border-radius: 5px;
+    height: 250px;
+    width: 500px;
+    position: absolute;
+    top: 80px;
+    left: 990px;
+    text-align: justify;
+}
+
+h1 {
+    text-align: center;
+}
+
+h3{
+    text-align: center;
+}
+
